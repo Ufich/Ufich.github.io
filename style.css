@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+ .baskervville-sc-regular {
+  font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.carreras{
+    background-image: url(imagenes/fondo.jfif);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.carreras h2{
+    font-size: 40px;
+    color: black;
+    font-family: "Baskervville SC", serif;
+    margin: 20px 10px 40px 0;
+}
+
+.carreras-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 45px;
+}
+
+.carreras-of img {
+    width: 200px;
+}
+
+.carreras-of h3{
+    font-family: "Baskervville SC", serif;
+    color: black;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.carreras-of p a{
+    font-size: 16px;
+    color: rgb(163, 164, 165);
+}
+
+.carreras-of2 p a{
+    font-size: 16px;
+    color: rgb(163, 164, 165);
+}
+
+.carreras-content2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 45px;
+}
+ 
+.carreras-of2 h3{
+    font-family: "Baskervville SC", serif;
+    color: black;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.carreras-of2 p{
+    font-size: 16px;
+    color: rgb(163, 164, 165);
+}
+
+.carreras-of p {
+    font-size: 16px;
+    color: rgb(163, 164, 165);
+}
+
+/*CONTACTO*/
+/*CONTACTO*/
+/*CONTACTO*/
+/*CONTACTO*/
+
+
+.contacto{
+    background-image: url(imagenes/fondo.jfif);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 0;
+    text-align: center;
+    }
+
+.contacto h2{
+    font-size: 40px;
+    color: black;
+    font-family: "Baskervville SC", serif;
+    margin: 20px 10px 40px 0;
+}
+
+.contacto p{
+    text-align: left;
+    font-size: 20px;
+}
+
+
+/* INICIO */
+/* INICIO */
+/* INICIO */
+
+
+.inicio{
+    background-image: url(imagenes/fondo.jfif);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 0;
+    /* text-align: center; */
+}
+
+.inicio p{
+    font-size: 18px;
+}
+
+/*ODONTO*/
+/*ODONTO*/
+/*ODONTO*/
+
+.odonto {
+    background-image: url(imagenes/fondo.jfif);
+    background-position: top center;
+    background-size: cover;
+    padding: 10px 0;
+    
+}
+.odonto img{
+    background-position: top center;
+    text-align: center;
+}
+
+/*INDUSTRIAL*/
+/*INDUSTRIAL*/
+/*INDUSTRIAL*/
+
+.malla{
+    background-image: url(imagenes/fondo.jfif);
+    background-position: top center;
+    background-size: cover;
+    padding: 10px 0;
+}
